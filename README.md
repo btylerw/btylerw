@@ -1,4 +1,4 @@
-### Hi there 👋
+### Marine Veteran. CompSci Student. Coding Enthusiast.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btylerw&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
