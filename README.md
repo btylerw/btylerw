@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=btylerw)](https://github.com/anuraghazra/github-readme-stats)
+[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=btylerw)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btylerw&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
