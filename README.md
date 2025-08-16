@@ -1,4 +1,4 @@
-### Marine Veteran. CompSci Student. Coding Enthusiast.
+### Marine Veteran and Full-Stack Developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btylerw&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
